@@ -1,0 +1,10 @@
+@inproceedings{REPO-203,
+    author = "Zhang, Ji and Singh, Sanjiv",
+    booktitle = "Robotics: Science and Systems",
+    number = "9",
+    organization = "Berkeley, CA",
+    pages = "1--9",
+    title = "{LOAM: Lidar Odometry and Mapping in Real-Time}",
+    volume = "2",
+    year = "2014"
+}
